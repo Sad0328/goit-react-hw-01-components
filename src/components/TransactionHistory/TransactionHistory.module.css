@@ -1,0 +1,38 @@
+.transactions {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 600px;
+    box-shadow: 0 0 20px 5px #87CEFA;
+    
+    margin: auto;
+}
+
+.main {
+    background-color: #7FFFD4;
+    color: #000080;
+}
+
+.secondTitle {
+    padding: 20px 20px;
+    text-align: left;
+    border: 1px solid #6ebbdf;
+     color: #000080;
+}
+.transactionsElitem:nth-child(odd) {
+    background-color: #3382cc;
+    color:#c9d5e0;;
+}
+
+.transactionsElitem:nth-child(even) {
+    background-color: #00FFFF;
+    color: #000080;
+}
+
+
+
+.listType,
+.listAmount,
+.transCurrency {
+    padding: 10px 30px;
+    text-align: left;
+    border: 1px solid #c9d5e0;;
+}

@@ -1,0 +1,28 @@
+.friendItem {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 0 5px 5px #7FFFD4;
+    gap: 30px;
+    padding: 20px 15px;
+    
+}
+
+.isOnline {
+    background-color: green;
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+}
+
+.isOffline {
+    background-color: red;
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+}
+
+.friendName {
+    font-weight: 500;
+    font-size: 26px;
+}

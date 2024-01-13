@@ -1,0 +1,61 @@
+.profile {
+    margin: 0 auto;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 10px 10px 20px 10px #7FFFD4;
+    border-radius: 8px;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    padding: 10px;
+}
+
+.avatar {
+    width: 200px;
+    background-color: #E0FFFF;
+    border-radius: 50px;
+    box-shadow: 0 0 10px 10px #AFEEEE;
+}
+
+.username {
+    font-weight: 800;
+    font-size: 30px;
+    color: #87CEFA;
+    
+}
+
+.cardText {
+    color: #87CEFA;
+}
+
+.stats {
+display: flex;
+    align-items: center;
+    width: 100%;
+    padding-left: 0;
+    
+}
+
+.CardItem {
+    width: 100px;
+    padding: 10px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    background-color: #98FB98;
+    border: 1px solid #7FFFD4;
+    box-shadow: 5px 5px 5px 5px #7FFFD4;
+    border-radius: 8px;color: #87CEFA;
+    color: #87CEFA;
+}
+
+.label {
+    color:#87CEFA;
+}
