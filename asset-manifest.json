@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ReactLesson1/static/css/main.9e7294f9.css",
-    "main.js": "/ReactLesson1/static/js/main.45464deb.js",
-    "index.html": "/ReactLesson1/index.html",
-    "main.9e7294f9.css.map": "/ReactLesson1/static/css/main.9e7294f9.css.map",
-    "main.45464deb.js.map": "/ReactLesson1/static/js/main.45464deb.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.9e7294f9.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.45464deb.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.9e7294f9.css.map": "/goit-react-hw-01-components/static/css/main.9e7294f9.css.map",
+    "main.45464deb.js.map": "/goit-react-hw-01-components/static/js/main.45464deb.js.map"
   },
   "entrypoints": [
     "static/css/main.9e7294f9.css",
